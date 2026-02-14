@@ -1,0 +1,2 @@
+nginx_port: 8080
+nginx_config_path: /etc/nginx/nginx.conf
